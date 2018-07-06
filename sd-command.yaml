@@ -1,0 +1,9 @@
+namespace: fjahja
+name: test
+version: '1.0'
+description: |
+  Test
+maintainer: filidillidally@gmail.com
+format: binary
+binary:
+  file: ./run.sh
