@@ -3,6 +3,8 @@ name: test
 version: '1.0'
 description: |
   Test
+  Usage: sd-cmd exec fjahja/test@latest [IMAGE]
+  If no image is specified, the command defaults to using 'org/repo'
 maintainer: filidillidally@gmail.com
 format: binary
 binary:
