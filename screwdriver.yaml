@@ -1,5 +1,5 @@
 shared:
-  image: docker-registry.ops.yahoo.com:4443/ylinux/ylinux7:7-current
+  image: node:8
 
 jobs:
   validate:
